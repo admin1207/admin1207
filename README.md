@@ -1,8 +1,11 @@
-
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
+<H1>AVINASH YADAV</H1>
+
+
 - 👋 Hi, I’m AVINASH YADAV
+
 <p>I'm a full stack developer currently working on a Web-D Project in collaboration with MRITYUNJAY YADAV</p>
 
 - 👀 I’m interested in WEB DEVELOPMENT

@@ -1,4 +1,5 @@
 - 👋 Hi, I’m AVINASH YADAV
+<p>I'm a full stack developer currently working on a Web-D Project in collaboration with MRITYUNJAY YADAV</p>
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on [TIN_DOG]()
